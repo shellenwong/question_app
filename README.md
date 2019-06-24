@@ -1,4 +1,3 @@
-# uczlx69-questions
 # Question Setting App
 
 
